@@ -1,0 +1,33 @@
+_repo: Kotoisia-kohtauksia-Victoria-regia_63042
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Yrjö
+    alias: Yrjo
+    gutenberg_agent_id: '52241'
+    url: http://www.gutenberg.org/2009/agents/52241
+creator:
+  author:
+    agent_name: Dilling, Lars
+    alias: Dilling, L.
+    birthdate: 1848
+    deathdate: 1887
+    gutenberg_agent_id: '37345'
+    url: http://www.gutenberg.org/2009/agents/37345
+    wikipedia: https://no.wikipedia.org/wiki/Lars_Dilling
+description: ''
+gutenberg_issued: '2020-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63042'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian fiction -- Translations into Finnish'
+- !lcsh 'Short stories, Norwegian -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: Kotoisia kohtauksia; Victoria regia
+url: http://www.gutenberg.org/ebooks/63042
