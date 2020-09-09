@@ -1,11 +1,14 @@
 _repo: Kotoisia-kohtauksia-Victoria-regia_63042
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Yrjö
     alias: Yrjo
     gutenberg_agent_id: '52241'
     url: http://www.gutenberg.org/2009/agents/52241
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dilling, Lars
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37345
     wikipedia: https://no.wikipedia.org/wiki/Lars_Dilling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63042#Kotoisia-kohtauksia-Victoria-regia
 gutenberg_issued: '2020-08-25'
 gutenberg_type: Text
 identifiers:
